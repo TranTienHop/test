@@ -1,0 +1,15 @@
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\bin\Debug\net10.0-windows\DALs.deps.json
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\bin\Debug\net10.0-windows\DALs.dll
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\bin\Debug\net10.0-windows\DALs.pdb
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\bin\Debug\net10.0-windows\DTOs.dll
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\bin\Debug\net10.0-windows\DTOs.pdb
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\DALs.csproj.AssemblyReference.cache
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\DALs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\DALs.AssemblyInfoInputs.cache
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\DALs.AssemblyInfo.cs
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\DALs.csproj.CoreCompileInputs.cache
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\DALs.csproj.Up2Date
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\DALs.dll
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\refint\DALs.dll
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\DALs.pdb
+c:\Users\Tien Hop\Desktop\ontap\QuanLyTheLoaiSach\DALs\obj\Debug\net10.0-windows\ref\DALs.dll
